@@ -1,0 +1,11 @@
+/* styles.css */
+.qr-code {
+    max-width: 150px;
+    align-items: center;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+/* Add any additional custom styling here */
